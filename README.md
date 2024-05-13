@@ -1,2 +1,8 @@
 # UIUC-GSD-405-Final-Project-Metroguevania
 Unreal Engine project that encapsulates a 2D, sidescrolling platformer experience made for my group final project for GSD 405 at UIUC
+
+This Unreal Engine group project was my final submission for the final project, the project being titled as "Metroguevania." This assignment was conducted over the course of a whole semester, split into four sections. The first was an initial project plan and revision of selected design documents (in this case those I had made the previous semester). The second was the pre-production phase one milestone, wherein my group presented our first revised draft of design documentation as well as project management documentation, plans, and any measure of development created. The third was the pre-production phase two milestone, continuing more of the same except with much more extensive programming developed. The fourth was the final submission, where we finalized our documentation and development of the game. For this assignment, I have not yet received my final grade.
+
+The documentation submitted can be found at this Drive folder: https://drive.google.com/drive/folders/1-64gSEUcV0e3kzNzcR5KbNmFRdMwU6zr?usp=sharing
+
+Disclaimer: The final allowable submission date has passed, so the ability to use this code to submit the assignment for a grade this current semester of Spring 2024 has similarly passed. I do not condone usage of this project for the purposes of cheating if this exact type of project assignment is to be re-used in future iterations of GSD 405 at the University of Illinois at Urbana-Champaign. I also do not claim any work on this project not done by me as my own. I worked chiefly on design, documentation, and project management.
